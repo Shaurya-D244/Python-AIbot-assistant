@@ -6,7 +6,7 @@ import re
 import random
 
 # ------------------------- Configuration -------------------------
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "API_KEY"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # ------------------------- Step 1: Capture Text -------------------------
@@ -117,3 +117,4 @@ if ai_reply:
 
 
     
+
